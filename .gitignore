@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/zencoding
+zencoding.so
+zencoding.dylib
+zencoding.dll
+zencoding.a
+zencoding.lib
+zencoding-test-*
+*.exe
+*.o
+*.obj
+*.lst
+bin/

@@ -1,0 +1,17 @@
+{
+    "authors": [
+        "zhad3"
+    ],
+    "copyright": "Copyright © 2021, zhad3",
+    "description": "Collection of encodings.",
+    "license": "MIT",
+    "name": "zencoding",
+    "targetPath": "bin",
+    "targetType": "sourceLibrary",
+    "dependencies": {
+        "zencoding:windows949": "*"
+    },
+    "subPackages": [
+        "./windows949/"
+    ]
+}

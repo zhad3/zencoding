@@ -1,0 +1,6 @@
+{
+    "description": "Converts windows code page 949 (korean, euc-kr, unified hangul code) to utf using a conversion table.",
+    "name": "windows949",
+    "targetPath": "$ROOT_PACKAGE_DIR/bin",
+    "targetType": "sourceLibrary"
+}
