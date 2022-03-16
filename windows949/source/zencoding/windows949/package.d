@@ -101,3 +101,4 @@ unittest
 
     assert(repr.equal(utf16));
 }
+
